@@ -1,4 +1,4 @@
 # keyboard-game
 Made in JavaScript
 
-Follo the keyboard sequence to win
+Follow the keyboard sequence to win
